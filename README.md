@@ -1,3 +1,21 @@
+<div align="center">
+
+# 12-Factor Agents
+
+**Design patterns and principles for building reliable, production-grade LLM applications.**<br>
+12 factors extracted from building real agent systems, applicable to any language or framework.
+
+[![Code License: Apache 2.0](https://img.shields.io/badge/Code-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[![Content License: CC BY-SA 4.0](https://img.shields.io/badge/Content-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Discord](https://img.shields.io/badge/chat-discord-5865F2)](https://humanlayer.dev/discord)
+[![YouTube Talk](https://img.shields.io/badge/AI%20Engineer-Conf%20Talk-white)](https://www.youtube.com/watch?v=8kMaTybvDUw)
+
+**About this fork:** This is a curated fork of the [upstream 12-factor-agents essay](https://github.com/humanlayer/12-factor-agents) by [dexhorthy](https://github.com/dexhorthy). The full content below is the authoritative guide; this fork maintains that work and credits [HumanLayer](https://humanlayer.dev) and the upstream contributors.
+
+---
+
+</div>
+
 # 12-Factor Agents - Principles for building reliable LLM applications
 
 <div align="center">
